@@ -125,7 +125,7 @@ const Home = () => {
         "A real-time chat app with WebSocket integration and user authentication.",
       image: ChatImg,
       github: "https://github.com/TanuRajput19/Chat-Application",
-      live: "", // Deployed Link
+      live: "https://chat-application-frontend-z3kb.onrender.com", // Deployed Link
       tech: ["React", "Socket", "MongoDB", "Express.js", "Jswebtoken", "TailwindCSS"],
     },
     {
