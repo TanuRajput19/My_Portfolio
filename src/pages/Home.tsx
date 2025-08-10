@@ -42,7 +42,7 @@ const Home = () => {
 
               <div className="flex flex-col sm:flex-row gap-4">
                <a 
-  href="/assets/Tanu_CV.pdf"  // yaha apne CV file ka path ya external link daal do
+  href="/Tanu_CV.pdf"  // yaha apne CV file ka path ya external link daal do
   download 
 >
   <Button className="gradient-btn px-8 py-3 text-lg">
