@@ -41,15 +41,13 @@ const Home = () => {
               </p>
 
               <div className="flex flex-col sm:flex-row gap-4">
-               <a 
-  href="/Tanu_CV.pdf"  // yaha apne CV file ka path ya external link daal do
-  download 
->
+   <a href="/Tanu_CV.pdf" target="_blank" rel="noopener noreferrer">
   <Button className="gradient-btn px-8 py-3 text-lg">
     <Download className="mr-2 h-5 w-5" />
-    Download CV
+    View CV
   </Button>
 </a>
+
                 <a 
   href="https://github.com/TanuRajput19" 
   target="_blank" 
